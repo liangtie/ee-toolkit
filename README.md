@@ -25,14 +25,12 @@ A curated list of resources referring to Electronic Engineering.
 - Practical Electronics for Inventors
 - Build your own transistor radios
 - Designing audio power amplifiers
-- Microelectronic Circuit Design
+- Microelectronic Circuit Design √
 - Fundamentals of Microelectronic
-- RF circuit design
-- Nilsson and Riedel, Electric Circuits
 - Foundations of Analog and Digital Electronic circuits by A.Agarwal J.Lang.
 - Electronics: Learning by Discovery: A hands-on primer for the new electronics enthusiast
 - Modern Control Systems
-- Engineering Circuit Analysis
+- Basic Engineering Circuit Analysis
 - Instrumentation and Measurement in Electrical Engineering
 - Antenna Theory: Analysis and Design by Constantine
 - Applied Circuits
