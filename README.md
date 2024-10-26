@@ -38,7 +38,7 @@ A curated list of resources referring to Electronic Engineering.
 - Applied Circuits
 - Electrical, Electronics, and Digital Hardware Essentials for Scientists and Engineers
 - Embedded Systems Hardware for Software Engineers
-- NNetwork Analysis and Synthesis - Franklin F. Kuo
+- Network Analysis and Synthesis - Franklin F. Kuo
 - Electric Circuits and Networks by K S Suresh Kumar
 - Circuit analysis by william hayt
 - The Foundations of Electric Circuit Theory by N R Sree Harsha, Anupama Prakash and D P Kothari
